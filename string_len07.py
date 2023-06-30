@@ -12,9 +12,9 @@ def main(s1,s2,s3):
     if len(s1)%2==1:
         a+=s1
     if len(s2)%2==1:
-        a+=s2
+        a=a+s2
     if len(s3)%2==1:
-        a+=s3
+        a=a+s3
     a+=']'
     return f'"{a}"'
-print(main(s1="code",s2="python",s3="coder"))
+print(main(s1="codejo",s2="python",s3="coder"))
