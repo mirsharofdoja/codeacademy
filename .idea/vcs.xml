@@ -2,6 +2,6 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/string_slicing_homework" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/string_methods_homework" vcs="Git" />
   </component>
 </project>
